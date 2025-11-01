@@ -68,7 +68,7 @@ This project explores monthly customer retention using cohort analysis based on 
 | Visualizing retention matrix in a clear, intuitive format | Created heatmap in Excel pivot table using conditional formatting |
 
 #### Final Outcomes
-The cohort analysis revealed that most customers make only one purchase, with retention dropping below 30% after the first month. However, a small loyal segment (~5�10%) continues to return over several months. Some cohorts from late 2013 showed stronger retention, possibly due to seasonality or marketing campaigns. These insights can help target retention strategies and identify high-value customer groups.
+The cohort analysis revealed that most customers make only one purchase, with retention dropping below 30% after the first month. However, a small loyal segment (~5-10%) continues to return over several months. Some cohorts from late 2013 showed stronger retention, possibly due to seasonality or marketing campaigns. These insights can help target retention strategies and identify high-value customer groups.
 
 ##### Retention Heatmap Preview  
 ![Customer Cohort Retention Heatmap](./projects/customer-cohort-retention/excel/cohort_heatmap.png)
@@ -95,4 +95,5 @@ I specialize in transforming complex business data into meaningful insights usin
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/olesia-zaiats-5362a237b)
 - [GitHub](https://github.com/zaiats-olesia)
+
 - Email: zaiats.olesia@gmail.com
