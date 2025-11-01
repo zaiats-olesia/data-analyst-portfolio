@@ -73,7 +73,7 @@ The cohort analysis revealed that most customers make only one purchase, with re
 ##### Retention Heatmap Preview  
 ![Customer Cohort Retention Heatmap](./projects/customer-cohort-retention/excel/cohort_heatmap.png)
 
-## SQL Practice(./practice/hackerrank/sql/)
+## [SQL Practice](./practice/hackerrank/sql/)
 In this folder presented my submissions for most interesting hackerrank challenges.
 The examples demonstrates usage of advanced SQL techniques like window functions, different types of joins and aggregations.
 
@@ -97,3 +97,4 @@ Connect with me:
 - [GitHub](https://github.com/zaiats-olesia)
 
 - Email: zaiats.olesia@gmail.com
+
